@@ -130,3 +130,6 @@ dmypy.json
 
 # docker-compose secret
 docker-compose-secret.*
+
+# vscode
+*.vscode*

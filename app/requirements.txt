@@ -1,0 +1,12 @@
+flask
+bs4
+uuid
+pathvalidate
+requests
+torrentfile
+aria2p
+yt-dlp
+schedule
+xmltodict
+google-api-python-client
+isodate
