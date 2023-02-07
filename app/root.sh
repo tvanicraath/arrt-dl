@@ -1,4 +1,3 @@
-## spin up new one by:  docker run -it -v C:\Users\rachi\Documents\Docker\arrt-dl-github\app:/app ubuntu /bin/bash
 ##run as root to set up this container
 
 
